@@ -1,0 +1,45 @@
+{
+	"type": "Collection",
+	"properties": {
+		"subid": {
+			"name": "subid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "subid",
+			"order": 0
+		},
+		"dept": {
+			"name": "dept",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "dept",
+			"order": 1
+		},
+		"semester": {
+			"name": "semester",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "semester",
+			"order": 2
+		},
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "name",
+			"order": 3
+		},
+		"facid": {
+			"name": "facid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "facid",
+			"order": 4
+		}
+	}
+}

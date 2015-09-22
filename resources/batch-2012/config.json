@@ -1,0 +1,37 @@
+{
+	"type": "Collection",
+	"properties": {
+		"stuname": {
+			"name": "stuname",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "stuname",
+			"order": 0
+		},
+		"studid": {
+			"name": "studid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "studid",
+			"order": 1
+		},
+		"dept": {
+			"name": "dept",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "dept",
+			"order": 2
+		},
+		"email": {
+			"name": "email",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "email",
+			"order": 3
+		}
+	}
+}

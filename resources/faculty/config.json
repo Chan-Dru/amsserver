@@ -1,0 +1,21 @@
+{
+	"type": "UserCollection",
+	"properties": {
+		"facid": {
+			"name": "facid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "facid",
+			"order": 0
+		},
+		"subid": {
+			"name": "subid",
+			"type": "array",
+			"typeLabel": "array",
+			"required": true,
+			"id": "subid",
+			"order": 1
+		}
+	}
+}
