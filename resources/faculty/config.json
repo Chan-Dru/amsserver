@@ -9,13 +9,45 @@
 			"id": "facid",
 			"order": 0
 		},
-		"subid": {
-			"name": "subid",
+		"firstyr": {
+			"name": "firstyr",
 			"type": "array",
 			"typeLabel": "array",
-			"required": true,
-			"id": "subid",
+			"required": false,
+			"id": "firstyr",
 			"order": 1
+		},
+		"secondyr": {
+			"name": "secondyr",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "secondyr",
+			"order": 2
+		},
+		"thirdyr": {
+			"name": "thirdyr",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "thirdyr",
+			"order": 3
+		},
+		"fourthyr": {
+			"name": "fourthyr",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "fourthyr",
+			"order": 4
+		},
+		"subject": {
+			"name": "subject",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "subject",
+			"order": 5
 		}
 	}
 }

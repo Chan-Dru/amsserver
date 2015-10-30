@@ -1,29 +1,37 @@
 {
 	"type": "Collection",
 	"properties": {
-		"facid": {
-			"name": "facid",
-			"type": "string",
-			"typeLabel": "string",
-			"required": false,
-			"id": "facid",
-			"order": 0
-		},
 		"batch": {
 			"name": "batch",
 			"type": "string",
 			"typeLabel": "string",
 			"required": false,
 			"id": "batch",
+			"order": 0
+		},
+		"dept": {
+			"name": "dept",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "dept",
 			"order": 1
 		},
-		"attendance": {
-			"name": "attendance",
+		"list": {
+			"name": "list",
 			"type": "object",
 			"typeLabel": "object",
 			"required": false,
-			"id": "attendance",
+			"id": "list",
 			"order": 2
+		},
+		"list1": {
+			"name": "list1",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "list1",
+			"order": 3
 		}
 	}
 }
