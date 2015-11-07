@@ -1,29 +1,13 @@
 {
 	"type": "Collection",
 	"properties": {
-		"batch": {
-			"name": "batch",
+		"deptyear": {
+			"name": "deptyear",
 			"type": "string",
 			"typeLabel": "string",
 			"required": false,
-			"id": "batch",
+			"id": "deptyear",
 			"order": 0
-		},
-		"dept": {
-			"name": "dept",
-			"type": "string",
-			"typeLabel": "string",
-			"required": false,
-			"id": "dept",
-			"order": 1
-		},
-		"list": {
-			"name": "list",
-			"type": "object",
-			"typeLabel": "object",
-			"required": false,
-			"id": "list",
-			"order": 2
 		},
 		"list1": {
 			"name": "list1",
@@ -31,7 +15,7 @@
 			"typeLabel": "array",
 			"required": false,
 			"id": "list1",
-			"order": 3
+			"order": 1
 		}
 	}
 }

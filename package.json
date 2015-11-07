@@ -1,0 +1,20 @@
+{
+  "name": "ams",
+  "version": "0.0.1",
+  "description": "attendance management system",
+  "keywords": [],
+  "homepage": "",
+  "author": "chandru",
+  "contributors": [],
+  "dependencies": {
+    "deployd": ">= 0"
+  },
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "0.12.7",
+    "npm":  "2.11.3"
+  },
+  "license": "MIT"
+}
